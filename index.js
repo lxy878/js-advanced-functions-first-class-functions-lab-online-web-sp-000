@@ -4,7 +4,7 @@ const returnFirstTwoDrivers = function (array){
 
 }
 
-function returnLastTwoDrivers(array){
+const returnLastTwoDrivers = function (array){
 
 }
 
