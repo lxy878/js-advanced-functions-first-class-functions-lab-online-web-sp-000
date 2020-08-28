@@ -14,10 +14,7 @@ function createFareMultiplier(n){
   return function(mul){return n*mul;}
 }
 
-const fareDoubler = function (n){
-
-}
-
+const fareDoubler = createFareMultiplier(2)
 function fareTripler(){
 
 }
