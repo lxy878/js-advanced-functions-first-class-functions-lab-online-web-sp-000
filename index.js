@@ -5,7 +5,7 @@ const returnFirstTwoDrivers = function (array){
 }
 
 const returnLastTwoDrivers = function (array){
-  return Array(array[-2], array[-1])
+  return Array(array[-2], array[-1]);
 }
 
 function selectingDrivers(){
