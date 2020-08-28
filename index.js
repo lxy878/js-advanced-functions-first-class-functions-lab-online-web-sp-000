@@ -16,6 +16,7 @@ function createFareMultiplier(n){
 
 // equals createFareMultiplier(2)(10)
 const fareDoubler = createFareMultiplier(2)
+
 // equals createFareMultiplier(3)(12)
 const fareTripler = createFareMultiplier(3)
 
