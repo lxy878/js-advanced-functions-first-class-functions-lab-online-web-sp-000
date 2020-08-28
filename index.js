@@ -1,6 +1,6 @@
 // Code your solution in this file!
 
-function returnFirstTwoDrivers(array){
+const returnFirstTwoDrivers = function (array){
 
 }
 
